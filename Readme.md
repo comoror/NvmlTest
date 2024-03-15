@@ -6,3 +6,6 @@
 
 NVML API包含在[GPU Deployment Kit](https://developer.nvidia.com/tesla-deployment-kit)中，而[GPU Deployment Kit](https://developer.nvidia.com/tesla-deployment-kit)包含在 [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)中。
 
+截图
+
+![ScreenShot](ScreenShot.png)
